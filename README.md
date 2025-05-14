@@ -1,45 +1,41 @@
-# Hi, I'm Alexandria Stiles 👋
+👋 Hi, I'm Alexandria Stiles
+Frontend Developer | React Enthusiast | Creative Technologist
 
-Fullstack Developer | React & Flask Enthusiast | Music Lover
+💼 What I’m Working On
+🎧 SOUNDMAN — A music-themed twist on the classic hangman game. Built with React and Node.js, styled with Bootstrap, and powered by Spotify API for a rich, interactive audio experience. View it here →
 
-- 🔭 Currently Working On: Deploying [SOUNDMAN](https://www.alexstiles.info/portfolio-collections/my-portfolio/soundman-a-music-themed-hangman-game) — a creative twist on the classic hangman game that incorporates musical elements. Built with React, Node.js, styled with Bootstrap, and custom vector images with Adobe Illustrator. It features Spotify API integration for an enhanced music experience. 
-- 💬 Talk to me about: Anything related to music! I’m always up for a discussion from emerging artists to timeless classics.
-- 😄 Pronouns: she/her/hers
-- ⚡Fun Fact: I’m an only child, which has given me the freedom to explore and develop a wide range of interests and skills!
+💡 About Me
+I’m a developer based in NYC with a background in both technology and the creative arts. Since beginning my coding journey in 2022, I’ve been focused on building intuitive, design-forward applications that blend logic and creativity. I’m passionate about music, visual storytelling, and building tools that make life easier or more expressive.
+
+🛠 Tech Stack
+React · Tailwind CSS · Node.js · Flask · PostgreSQL · Adobe Illustrator · Git · Docker · Vite · Redux
+
+🚀 Currently Exploring
+React Router & modular UI design
+
+Tailwind CSS for scalable front-end layouts
+
+Django for backend APIs
+
+PostgreSQL for relational data handling
+
+Browser automation tools + AI integrations
+
+🏆 Highlights
+🎓 Full Stack Engineering Bootcamp, Flatiron School NYC
+
+🧠 Technical writing & blogging: alexstiles.info/blog
+
+🛰 NASA Community College Aerospace Scholar (2017)
+
+🌭 Featured in PETA’s Top 10 Vegan Dogs for my startup, Sly Dogs (2021)
+
+📬 Let’s Connect
+Portfolio: alexstiles.info
+Blog: alexstiles.info/blog
+LinkedIn: linkedin.com/in/alexandriastiles
 
 
-![alinnstiles's Stats](https://github-readme-stats.vercel.app/api?username=alinnstiles&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
-Since starting my coding journey in October 2022, I’ve immersed myself in learning and growing as a software developer. Based in the vibrant city of New York, I blend my love for technology with my passion for the arts, music, and travel. I’m eager to leverage my skills to create innovative solutions, connect with diverse communities, and explore new horizons.
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- 🚀 Diving deep into Full Stack Web Development, with a focus on:
-- React & Redux: Crafting dynamic and responsive front-end experiences.
-- React Router: Ensuring seamless and intuitive page transitions.
-- Tailwind CSS: Designing modern, scalable, and visually appealing user interfaces.
-- Django: Building robust server-side applications with this powerful Python framework.
-- PostgreSQL: Managing and scaling databases efficiently for high-performance applications.
-
-With a foundation built on my recent immersive boot camp experience and a diverse background in both tech and business, I am eager to tackle new challenges and grow in the tech field.
-
-
- ## 🏆 Achievements
- - 🔭 I've completed an intensive Full Stack Engineering Bootcamp at Flatiron School, NYC, where I gained hands-on experience in advanced software engineering.
-- 📝 I maintain a [technical blog](https://www.alexstiles.info/blog) where I delve into topics related to technology and music.
- 
-- 🌟 NASA Community College Aerospace Scholar - Awarded in 2017 for Excellence in STEM Advancement and Collaboration. Recognized for outstanding contributions to STEM education and outreach.
-- 🌟 PETA’s Top 10 Vegan Dogs Award - Featured in 2021 for my hotdog cart Sly Dogs.[Check it out here](https://www.peta.org/features/top-vegan-dogs-restaurants-2021/).
-
-## My Articles
-- [I Interviewed with SnapChat’s ‘My AI’](https://www.alexstiles.info/post/i-interviewed-with-snapchat-s-my-ai)
-- [Exploring Sonic Pi: A Coding Tool for Music Creation ’](https://www.alexstiles.info/post/exploring-sonic-pi-a-coding-tool-for-music-creation)
-  
-## 📬 Get in Touch
 
 - Checkout my [Website](https://alexstiles.info)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/stilesalex/) 
