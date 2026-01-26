@@ -1,40 +1,27 @@
-👋 Hi, I'm Alexandria Stiles
-Frontend Developer | React Enthusiast | Creative Technologist
+👋 Hi, I’m Alexandria Stiles
+Senior Full Stack Engineer | Creative Technologist
 
-💼 What I’m Working On
-🎧 SOUNDMAN — A music-themed twist on the classic hangman game. Built with React and Node.js, styled with Bootstrap, and powered by Spotify API for a rich, interactive audio experience. View it here →
+🎧 About Me
+I’m a music lover who builds thoughtful, full-stack products that make complex systems feel intuitive and human. I specialize in React, TypeScript, and Node.js, with experience owning platforms end to end, from UI and APIs to data integrations and real user workflows. I care deeply about developer experience, product clarity, and building tools people actually enjoy using.
 
-💡 About Me
-I’m a developer based in NYC with a background in both technology and the creative arts. Since beginning my coding journey in 2022, I’ve been focused on building intuitive, design-forward applications that blend logic and creativity. I’m passionate about music, visual storytelling, and building tools that make life easier or more expressive.
+🎶 Featured Project
+SOUNDMAN
+A music-driven word game powered by the Spotify API. Built with React and Node.js, Soundman blends music discovery with playful interaction, inspired by how people emotionally connect with music.
+View it here → 
 
 🛠 Tech Stack
-React · Tailwind CSS · Node.js · Flask · PostgreSQL · Adobe Illustrator · Git · Docker · Vite · Redux
+React · TypeScript · Node.js · Tailwind CSS · PostgreSQL · Docker · Vite · Redux
 
-🚀 Currently Exploring
-React Router & modular UI design
+🚀 Current Focus
+Platform and internal tooling
+Data integrations and metadata driven systems
+Low-code and developer friendly experiences
+AI assisted automation
 
-Tailwind CSS for scalable front-end layouts
-
-Django for backend APIs
-
-PostgreSQL for relational data handling
-
-Browser automation tools + AI integrations
-
-🏆 Highlights
-🎓 Full Stack Engineering Bootcamp, Flatiron School NYC
-
-🧠 Technical writing & blogging: alexstiles.info/blog
-
-🛰 NASA Community College Aerospace Scholar (2017)
-
-🌭 Featured in PETA’s Top 10 Vegan Dogs for my startup, Sly Dogs (2021)
-
-📬 Let’s Connect
+📬 Connect
 Portfolio: alexstiles.info
 Blog: alexstiles.info/blog
-LinkedIn: linkedin.com/in/alexandriastiles
-
+LinkedIn: linkedin.com/in/stilesalex
 
 
 - Checkout my [Website](https://alexstiles.info)
